@@ -1,2 +1,2 @@
 # marketplace.libro
-Venta de libros y variedades en Ciudad Satelite
+Venta de libros y Variedades en Ciudad Satelite
